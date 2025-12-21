@@ -16,7 +16,7 @@ const Navbar = () => {
 
   return (
     <>
-      <nav className="fixed  top-0 left-0 w-full bg-white shadow-md z-10">
+      <nav className="fixed  top-0 left-0 w-full bg-white shadow-md z-30">
         <div className="max-w-7xl mx-auto px-4">
           <div className="flex justify-between items-center h-16">
             {/* Logo */}
@@ -97,7 +97,7 @@ const Navbar = () => {
 
       {/* Mobile Menu */}
       <div
-        className={`fixed top-16 left-0 w-full bg-white shadow-lg md:hidden transition-all duration-300 z-10 ${
+        className={`fixed top-16 left-0 w-full bg-white shadow-lg md:hidden transition-all duration-300 z-30 ${
           open
             ? "max-h-screen opacity-100"
             : "max-h-0 opacity-0 overflow-hidden"
