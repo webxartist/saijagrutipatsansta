@@ -51,11 +51,11 @@ const Footer = () => {
             </h4>
 
             <p className="text-sm text-gray-400 leading-relaxed">
-              492, Suchitra Business Park,
+              512, Suchitra Business Park,
               <br />
-              Patangar Patil Chowk,
+              Pantnagar Patel Chowk,
               <br />
-              Ghatkopar (E), Mumbai – 400075
+              Ghatkopar (E), Mumbai – 400077
             </p>
 
             <p className="mt-3 text-sm text-gray-400">📞 +91 8689970832</p>
@@ -73,7 +73,7 @@ const Footer = () => {
           </p>
 
           <p className="mt-3 md:mt-0">
-            Reg. No. BOM / Hall M / RSR (CR) 867 | Website by{" "}
+            Reg. No. BOM / W M / RSR (CR) 8867 | Website by{" "}
             <a
               href="https://webxartist.com"
               target="_blank"
