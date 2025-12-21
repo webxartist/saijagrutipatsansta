@@ -113,28 +113,28 @@ const Navbar = () => {
           </Link>
           <Link
             onClick={() => setOpen(false)}
-            href="/about"
-            className={`px-6 py-4 ${navLink("/about")}`}
+            href="/About"
+            className={`px-6 py-4 ${navLink("/About")}`}
           >
             About
           </Link>
           <Link
             onClick={() => setOpen(false)}
-            href="/services"
-            className={`px-6 py-4 ${navLink("/services")}`}
+            href="/Services"
+            className={`px-6 py-4 ${navLink("/Services")}`}
           >
             Services
           </Link>
           <Link
             onClick={() => setOpen(false)}
-            href="/deposits-loans"
-            className={`px-6 py-4 ${navLink("/deposits-loans")}`}
+            href="/Deposit-loans"
+            className={`px-6 py-4 ${navLink("/Deposit-loans")}`}
           >
             Deposits & Loans
           </Link>
           <Link
             onClick={() => setOpen(false)}
-            href="/contact"
+            href="/Contact"
             className="px-6 py-4 text-red-600"
           >
             Contact
