@@ -23,7 +23,9 @@ export const metadata = {
     "साई जागृती नागरी पतसंस्था (मर्या.) मुंबई – विश्वासार्ह आर्थिक सेवा देणारी नागरी पतसंस्था. Personal Loan, Business Loan, Gold Loan, Home Loan तसेच सुरक्षित Fixed व Recurring Deposit योजना.",
 
   keywords: [
-    "Sai Jagruti Nagari Patsanstha",
+    "Sai Jagruti Nagari Pat sanstha",
+    "Sai Jagruti Nagari Pat sansta",
+    "Sai Jagruti Pat sansta",
     "नागरी पतसंस्था मुंबई",
     "Personal Loan Mumbai",
     "Business Loan",
@@ -40,7 +42,8 @@ export const metadata = {
   },
 
   openGraph: {
-    title: "साई जागृती नागरी पतसंस्था (मर्या.) मुंबई",
+    title:
+      "साई जागृती नागरी पतसंस्था (मर्या.) मुंबई" | "sai jagruti pat sansta",
     description:
       "Mumbai based trusted Nagari Patsanstha providing Personal, Business, Gold & Home Loans with secure deposit schemes.",
     url: "https://www.saijagrutipatsansta.com",
