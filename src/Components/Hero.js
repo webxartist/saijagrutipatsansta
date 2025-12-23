@@ -24,14 +24,14 @@ const Hero = () => {
             {/* CTA BUTTONS */}
             <div className="mt-6 flex flex-wrap gap-4">
               <Link
-                href="/services"
+                href="/Services"
                 className="bg-sky-600 hover:bg-sky-700 text-white px-6 py-3 rounded-md font-medium transition shadow"
               >
                 Our Services
               </Link>
 
               <Link
-                href="/contact"
+                href="Contact"
                 className="border border-red-600 text-red-600 hover:bg-red-600 hover:text-white px-6 py-3 rounded-md font-medium transition"
               >
                 Contact Us
