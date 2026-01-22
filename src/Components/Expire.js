@@ -31,7 +31,7 @@ const HostingExpiredNotice = () => {
 
         {/* Call Button */}
         <a
-          href="tel:8169413149"
+          href="tel:+918169413149"
           className="block w-full py-3 rounded-xl bg-red-600 text-white text-lg font-semibold hover:bg-red-700 transition"
         >
           📞 Contact Support
